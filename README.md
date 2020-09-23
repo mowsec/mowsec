@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hullo!  👋
+With a background in penetration testing and technical presales engineering for cyber security services and products, I'm now building deliberately vulnerable web applications to help developers grasp concepts of secure coding and application security. 
 
-<!--
-**mowsec/mowsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Interested in
+* Penetration testing (both web app and infrastructure)
+* Application security, including secure coding and secure design/archecture
+* Real world threat mapping
+* Security in cloud environments
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm looking to collaborate on
+* Open source security tooling
+* Applicaion security resources
