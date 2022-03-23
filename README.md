@@ -11,6 +11,6 @@ Check out the [mowsec blog](https://mowsec.com) for cyber security and applicati
 * Real world threat mapping
 * Security in cloud environments
 
-### I'm looking to collaborate on
+### Looking to collaborate on
 * Open source security tooling
 * Applicaion security resources
