@@ -1,5 +1,5 @@
 # Taylor Mowat
-Taylor is an Application Security Engineer with a focus on empowering development teams with knowledge and tools (and labs) which can help them write code more securely. Formerly a pentester, you see, I'm shifting left too!
+Taylor is an Application Security Engineer with a focus on empowering development teams with knowledge and tools (and labs) which can help them write code more securely. Formerly a pentester, you see, he's shifting left too!
 
 ## Mowsec — Security news and blog by Taylor Mowat
 Check out the [mowsec blog](https://mowsec.com) for cyber security and application security articles and the occasional deep dive.
